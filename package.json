@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",
-    "render-start": "./render-start.sh"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
